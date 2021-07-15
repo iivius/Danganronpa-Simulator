@@ -1,0 +1,309 @@
+Sailor
+Pirate
+Accountant
+Administrator
+Lawyer
+Teacher
+Aerospace Engineer
+Agricultural Engineer
+Aircraft Mechanic
+Flight Attendant
+Racecar Driver
+Anesthesiologist
+Animal Trainer
+Animator
+Archeologist
+Aquaculturist
+Architect
+Professor
+Art Director
+Artist
+Actor
+Musician
+Athletic Trainer
+Automotive Engineer
+Baker
+Bank Teller
+Biologist
+Biomedical Engineer
+Book Editor
+Budget Analyst
+Camp Director
+Cardiologist
+Carpenter
+Cartographer
+Casino Dealer
+Casting Director
+Chemical Engineer
+CEO
+Child Care Worker
+Child Support Investigator
+Civil Engineer
+Psychologist
+Sociologist
+Commercial Designer
+Community Welfare Worker
+Computer Hardware Technician
+Computer Programmer
+Computer Security Specialist
+Construction Worker
+Cook
+Lawyer
+Correction Officer
+Artisan
+Detective
+Criminal Lawyer
+Tailor
+Customer Service Representative
+Delivery Driver
+Dental Hygienist
+Dentist
+Dermatologist
+Dietitian and Nutritionist
+DJ
+Doctor
+Courier
+Gang Leader
+Alchemist
+Hacker
+Dispatcher
+Door To Door Salesman
+Editorial Writer
+Electrician
+Elementary School Teacher
+Environmental Engineer
+Excavator
+Secretary
+Designer
+Explosives Worker
+Event Planner
+Factory Worker
+Farmer
+Fashion Designer
+Fashion Model
+Financial Planner
+Firefighter
+Fitness Trainer
+Flight Attendant
+Florist
+Foreign Language Interpreter
+Forensics Psychologist
+Forester
+Forest Fire Inspector
+Fraud Investigator
+Furniture Designer
+Game Runner
+Gas Plant Operator
+Glass Blower
+Graphic Designer
+Gynecologist
+High School Guidance Counselor
+High School Teacher
+Home Economics Teacher
+Game Show Contestant
+Spelling Bee Contestant
+Horticulturist
+Nurse
+Host
+Events Coordinator
+Hotel Manager
+Housekeeper
+Human Resources Manager
+Hydraulic Engineer
+Industrial Air Pollution Analyst
+Industrial Designer
+Industrial Engineer
+Industrial Waste Inspector
+Instructor
+Insurance Agent
+Intelligence Specialist
+Interior Designer
+Irrigation Engineer
+IT Administrator
+Janitor
+Job Analyst
+Kindergarten Teacher
+Landscape Architect
+Librarian
+Makeup Artist
+Manicurist and Pedicurist
+Marine Biologist
+Massage Therapist
+Mathematician
+Mechanical Engineer
+Mechanical Inspector
+Medical Assistant
+Medical Examiner
+Mental Health Counselor
+Merchandise Displayer
+Military Officer
+Mill Worker
+Miner
+Model Maker
+Director
+Motor Vehicle Inspector
+Museum Curator
+Composer
+Music Conductor
+Music Transcriber
+Music Director
+Perfect Pitch
+Guitarist
+Pianist
+Singer
+Violinist
+Cellist
+Harpist
+Musical Instrument Tuner
+Newspaper Editor
+Nuclear Engineer
+Nurse's Aide
+Obstetrician
+Occupational Therapist
+Oceanographer
+Office Worker
+Office Supervisor
+Ophthalmologist
+Dancer
+Orthodontist
+Painter
+Pathologist
+Pediatrician
+Petroleum Engineer
+Pharmacist
+Philosopher
+Photographer
+Physical Education Instructor
+Physical Therapist
+Physician's Assistant
+Physicist
+Pilot
+Botanist
+Plastic Surgeon
+Plumber
+Poet
+Lyricist
+Postal Service Mail Carrier
+Postal Service Mail Sorter
+Power Plant Operator
+Product Planner
+Product Safety Engineer
+Professional Sports Scout
+Proofreader
+Property Manager
+Props and Lighting Technician
+Psychiatrist
+Psychologist
+Quality Control Engineer
+Quarry Worker
+Radar and Sonar Technician
+Radio & TV Announcer
+Newscaster
+Radio & TV Producer
+Talk Show Host
+Survivor
+Radio Operator
+Radiologist
+Rail Yard Engineers
+Railroad Engineer
+Archer
+Real Estate Sales Agent
+Referee
+Restaurant Manager
+Retail Buyer
+Safety Inspector
+Sales Floor Clerk
+Sales Representative
+Script Writer
+Security Guard
+Set Designer
+Illustrator
+Knitter
+Carpenter
+Ship Captain
+Skin Care Specialist
+Social Worker
+Sociologist
+Sound Engineer
+Agent
+Steel Worker
+Structural Engineer
+Surgeons
+Systems Analyst
+Tax Collector
+Taxi Driver
+Teachers Aide
+Textile Designer
+Tour Guide
+Travel Agent
+Journalist
+Treasurer
+Tree Trimmer
+Urban Planner
+Veterinarian
+Video Game Engineer
+Voice Pathologist
+Gymnast
+Runescape Player
+Waiter
+Pokemon Trainer
+Smash Player
+Liar
+League of Legends Player
+Cat Owner
+Web Art Director
+Web Developer
+Party go-er
+Welder
+Wholesale Buyer
+Wildlife Biologist
+Writer
+Author
+Veterinarian
+Zoologist
+Magician
+Stunt Double
+Blogger
+Matchmaker
+Dog Sitter
+Scrapbooker
+Calligrapher
+Sculptor
+Podcaster
+Gardener
+Traveler
+Mentor
+Volunteer
+Chess Player
+Volleyball Player
+Breakdancer
+Golfer
+Hockey Player
+Skateboarder
+Swimmer
+Driver
+Camper
+Backpacker
+Football Player
+Cheerleader
+Tennis Player
+Baseball Player
+Runner
+Hiker
+Beekeeper
+Gamer
+Bowler
+Streamer
+Youtuber
+Shopper
+Music Producer
+Blacksmith
+Crafter
+Fisher
+Woodcutter
+Firemaker
+Esports Player
+Prankster
+Fighter
+Boxer
+Leader
